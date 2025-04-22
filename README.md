@@ -27,13 +27,13 @@ X-Api-Key: your_api_key
 {
   "status": 200,
   "data": {
-    "id": "1",
-    "erp_medoffice_id": "1",
+    "id": 1,
+    "erp_medoffice_id": 1,
     "name": "МО Москва",
     "city": "Москва",
     "address": "Москва, ул. НазваниеУлицы, дом 20",
     "phones": "доб. 4017,4023",
-    "is_deleted": "0"
+    "is_deleted": 0
   }
 }
 ```
@@ -82,13 +82,13 @@ X-Api-Key: your_api_key
 {
   "status": 200,
   "data": {
-    "id": "1",
-    "erp_medoffice_id": "1",
+    "id": 1,
+    "erp_medoffice_id": 1,
     "name": "МО Москва",
     "city": "Москва",
     "address": "Москва, ул. НазваниеУлицы, дом 20",
     "phones": "доб. 4017,4023",
-    "is_deleted": "0"
+    "is_deleted": 0
   }
 }
 ```
@@ -136,13 +136,13 @@ X-Api-Key: your_api_key
 {
   "status": 200,
   "data": {
-    "id": "1",
-    "erp_medoffice_id": "1",
+    "id": 1,
+    "erp_medoffice_id": 1,
     "name": "МО Москва",
     "city": "Москва",
     "address": "Москва, ул. НазваниеУлицы, дом 20",
     "phones": "доб. 4017,4023",
-    "is_deleted": "0"
+    "is_deleted": 0
   }
 }
 ```
@@ -187,13 +187,13 @@ X-Api-Key: your_api_key
 {
   "status": 200,
   "data": {
-    "id": "1",
-    "erp_medoffice_id": "1",
+    "id": 1,
+    "erp_medoffice_id": 1,
     "name": "МО Москва",
     "city": "Москва",
     "address": "Москва, ул. НазваниеУлицы, дом 20",
     "phones": "доб. 4017,4023",
-    "is_deleted": "1"
+    "is_deleted": 1
   }
 }
 ```
@@ -218,7 +218,7 @@ X-Api-Key: your_api_key
 }
 ```
 
-## Структура объекта офиса в ответах (Возвращаются всегда строки, приводить тип параметра на своей стороне самостоятельно)
+## Структура объекта офиса в ответах
 
 | Поле              | Тип    | Описание                              |
 |-------------------|--------|---------------------------------------|
