@@ -50,7 +50,7 @@ X-Api-Key: your_api_key
   }
 }
 ```
-Ошибка 404:
+Ошибка:
 ```json
 {
   "status": "fail",
@@ -123,7 +123,7 @@ Content-Type: application/json
 ```
 Ответ 200: (как GET)
 
-Ошибка 404:
+Ошибка:
 ```json
 {
   "status": "fail",
@@ -160,7 +160,7 @@ Content-Type: application/json
   "code": 10
 }
 ```
-Ошибка 404:
+Ошибка:
 ```json
 {
   "status": "fail",
